@@ -90,11 +90,3 @@
 <img width="400" src="https://user-images.githubusercontent.com/97737386/231211042-1e6a1de7-26d7-43fe-9896-8942723d667b.png">
 
 [자세히 보기](https://github.com/HannahKim33/T-Catch.git)
-
-<br>
-
-### 영화 리뷰 웹사이트 Popcorn
-
-<img width="400" src="https://user-images.githubusercontent.com/97737386/231211352-b1341303-d1c5-4fa2-8c61-1996d232b0ed.png">
-
-[자세히 보기](https://github.com/HannahKim33/project02_popcorn.git)
