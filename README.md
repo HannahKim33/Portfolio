@@ -86,6 +86,10 @@
 
 </details>
 
+### Currently Learning
+- C
+- Node.js
+
 <br>
 
 ## 프로젝트
