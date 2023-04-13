@@ -9,6 +9,8 @@
 - 쌍용교육센터 Java 풀스택 개발자 과정 이수
 - 중앙대학교 경영학부 졸업
 
+<br>
+
 ## 기술 스택
 
 (각 항목을 클릭하면 상세 내용을 볼 수 있습니다.)
@@ -101,6 +103,6 @@
 
 <img width="400" src="https://user-images.githubusercontent.com/97737386/231211042-1e6a1de7-26d7-43fe-9896-8942723d667b.png">
 
-Java, JavaScript, Spring Boot 기반의 팀 프로젝트입니다.
+  Java, JavaScript, Spring Boot 기반의 팀 프로젝트입니다.
 
-[자세히 보기](https://github.com/HannahKim33/T-Catch.git)
+  [자세히 보기](https://github.com/HannahKim33/T-Catch.git)
