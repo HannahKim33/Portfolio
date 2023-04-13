@@ -95,7 +95,7 @@
 <summary><h3>C</h3></summary>
 
 - 기본 문법
--용포인터의 사용
+- 포인터의 사용
 
 </details>
 
