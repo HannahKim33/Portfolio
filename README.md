@@ -11,6 +11,8 @@
 
 ## 기술 스택
 
+(각 항목을 클릭하면 상세 내용을 볼 수 있습니다.)
+
 <details>
 <summary><h3>Java & Spring</h3></summary>
 
