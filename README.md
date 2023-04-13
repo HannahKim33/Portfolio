@@ -5,7 +5,7 @@
 
 ## 교육
 
-- 한국방송통신대학교 
+- 한국방송통신대학교 컴퓨터과학과 재학 
 - 쌍용교육센터 Java 풀스택 개발자 과정 이수
 - 중앙대학교 경영학부 졸업
 
@@ -97,8 +97,10 @@
 
 ## 프로젝트
 
-### 공연 예매 웹사이트 T-CATCH
+### 티켓 예매 웹사이트 T-CATCH
 
 <img width="400" src="https://user-images.githubusercontent.com/97737386/231211042-1e6a1de7-26d7-43fe-9896-8942723d667b.png">
+
+Java, JavaScript, Spring Boot 기반의 팀 프로젝트입니다.
 
 [자세히 보기](https://github.com/HannahKim33/T-Catch.git)
