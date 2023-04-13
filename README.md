@@ -93,7 +93,6 @@
 
 ### Currently Learning
 - C
-- Node.js
 
 <br>
 
