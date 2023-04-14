@@ -92,10 +92,7 @@
 </details>
 
 <details>
-<summary><h3>C</h3></summary>
-
-- 기본 문법
-- 포인터의 사용
+<summary><h3>C (Learning) </h3></summary>
 
 </details>
 
