@@ -107,11 +107,3 @@
    Java, JavaScript, Spring Boot, Oracle 기반의 팀 프로젝트입니다.
 
    [자세히 보기](https://github.com/HannahKim33/T-Catch.git)
-
-### 영화 리뷰 웹사이트 Popcorn
-
-<img width="400" src="https://user-images.githubusercontent.com/97737386/231211352-b1341303-d1c5-4fa2-8c61-1996d232b0ed.png">
-
-   Java, JSP/Servlet, Oracle DBMS 기반의 팀 프로젝트입니다.
-   
-   [자세히 보기](https://github.com/HannahKim33/project02_popcorn.git)
